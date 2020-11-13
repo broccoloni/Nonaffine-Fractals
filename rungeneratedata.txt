@@ -1,0 +1,38 @@
+#this file is only to show what it's like when you run generatedata for the thesis
+
+$ mkdir Test
+$ ./generatedata
+How many fractals would you like to generate: 100
+
+What is the directory called (Note: it should already be created): ./Test/
+
+How many points would you like to plot for each fractal: 1000000
+
+How many functions in each IFS: 4
+
+Enter a vector representing the viewing window (eg. minx,maxx,miny,maxy): -3,3,-3,3
+
+0  - Affine
+1  - x -> acos(bx) + ccos(dy)+e
+2  - x -> acos(bx) + csin(dy)+e
+3  - x -> acos(bx) + ctanh(dy)+e
+4  - x -> asin(bx) + ccos(dy)+e
+5  - x -> asin(bx) + csin(dy)+e
+6  - x -> asin(bx) + ctanh(dy)+e
+7  - x -> atanh(bx) + ccos(dy)+e
+8  - x -> atanh(bx) + csin(dy)+e
+9  - x -> atanh(bx) + ctanh(dy)+e
+10 - Piecewise Affine
+
+Enter a vector containing the maps you would like to restrict: 0,1,2,3,4,5,6,7,9,10
+
+
+0 - No restrictions
+1 - Ensure there are at least 2 different transformation types
+2 - Ensure there is at least 1 of each transformation type
+
+What dispersion of transformations would you like: 0
+
+Generating fractals 0 to 100
+Percent Complete:     100%
+$
