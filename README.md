@@ -20,12 +20,16 @@ specification to create a fractal database to your liking (see rungeneratedata.t
 
 Below are some examples of fractals made with:
 
-IFSs consisting of sin:
+IFSs consisting of sin, cos, and tan:
 
-IFSs consisting of tan:
+<img src = "https://user-images.githubusercontent.com/38572823/194648830-54beaf00-394b-40e4-a78f-c8ac1a8a4ade.png" width = "500" height = "500">
 
-IFSs consisting of piecewise affine functions:
+IFSs consisting of piecewise affine functions with a square (top) and circular (bottom) boundaries:
 
-Fractal splicing:
+<img src = "https://user-images.githubusercontent.com/38572823/194649051-18f31a2c-dd97-47aa-a717-60da0f626a5a.png" width = "500" height = "340">
+
+Fractal splicing (the two on the left were spliced to make the one on the right):
+
+<img src = "https://user-images.githubusercontent.com/38572823/194649368-f0f15006-5ebf-444c-8c90-ce4ef9e36270.png" width = "500" height = "350">
 
 
